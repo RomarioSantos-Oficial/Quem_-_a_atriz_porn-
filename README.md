@@ -52,31 +52,6 @@ Distribuído sob licença MIT. Veja LICENSE para mais informações.
 
 🎲 Dica Pro: Quanto menos dicas usar, maior sua pontuação! Conseguirá chegar aos 11 pontos?
 
-## ⚙️ Instalação
-```bash
-# Clonar repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Instalar dependências
-npm install
-
-# Iniciar servidor de desenvolvimento
-npm run dev
-
-
-### Personalize com:
-1. Substitua `seu-usuario/seu-repositorio` pelos seus dados reais
-2. Adicione suas próprias screenshots
-3. Inclua um link para demo online (se tiver)
-4. Adicione um GIF demonstrando o gameplay
-5. Atualize a seção de tecnologias com suas escolhas específicas
-
-Quer um visual mais elaborado? Adicione badges do Shields.io:
-
-```markdown
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 
 # 🌐 Multilingual Game Description 
@@ -147,15 +122,6 @@ An interactive game where players must guess the name of famous personalities ba
 - **Несколько раундов** со случайными вопросами
 - **Адаптивный дизайн** для всех устройств
 
-</details>
-
-## ⚙️ Installation/Instalación/安装/Установка
-```bash
-git clone https://github.com/your-repo.git
-npm install
-npm run dev
-
-
 🌍 Contribution Guidelines
 EN: Report issues in English/Spanish/Chinese/Russian
 
@@ -170,3 +136,27 @@ RU: Сообщайте об ошибках на английском/испан�
 "¡Equilibra pistas y puntos estratégicamente!"
 "平衡使用提示和积分以获得最高分!"
 "Используйте подсказки стратегически для максимального счета!"
+
+### Personalize com:
+1. Substitua `seu-usuario/seu-repositorio` pelos seus dados reais
+2. Adicione suas próprias screenshots
+3. Inclua um link para demo online (se tiver)
+4. Adicione um GIF demonstrando o gameplay
+5. Atualize a seção de tecnologias com suas escolhas específicas
+
+Quer um visual mais elaborado? Adicione badges do Shields.io:
+
+```markdown
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+
+</details>
+
+## ⚙️ Installation/Instalación/安装/Установка
+```bash
+git clone https://github.com/your-repo.git
+npm install
+npm run dev
+
