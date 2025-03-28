@@ -1,4 +1,9 @@
 // questions.ts
+
+//Esse é uma aquivo de bancos de dados é temporario, recomendo fazer uma com.
+//As imagem tem direitos autrais, recomendo.
+
+
 export interface Question {
   image: string;
   name: string;
