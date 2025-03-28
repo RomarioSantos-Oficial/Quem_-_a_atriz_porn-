@@ -1,7 +1,7 @@
 # 🕵️♀️ Jogo de Adivinhação: Quem é a Atriz?
 
 <div align="center">
-  <img src="public/logo.png" alt="Logo do Jogo" width="200">
+  <img src="public/icon.png" alt="Logo do Jogo" width="200">
 </div>
 
 Um jogo interativo onde os jogadores devem adivinhar o nome de personalidades famosas com base em dicas e uma imagem progressivamente revelada. Desenvolvido com React + TypeScript, perfeito para testar conhecimento e habilidades de dedução!
@@ -28,6 +28,30 @@ Um jogo interativo onde os jogadores devem adivinhar o nome de personalidades fa
 - **Controle de Estado**: React Hooks
 - **Gerenciamento de Dicas**: Sistema de array dinâmico
 
+![alt text](/images/image.png)
+
+
+📸 Capturas de Tela
+Tela Inicial	Dica Revelada	Resultado Final
+<img src="screenshots/gameplay1.png" width="200">	<img src="screenshots/gameplay2.png" width="200">	<img src="screenshots/gameplay3.png" width="200">
+🤝 Como Contribuir
+Faça um Fork do projeto
+
+Crie sua Branch (git checkout -b feature/nova-feature)
+
+Commit suas mudanças (git commit -m 'Adiciona nova feature')
+
+Push para a Branch (git push origin feature/nova-feature)
+
+Abra um Pull Request
+
+📝 Reporte bugs/sugestões: Issues
+
+📄 Licença
+Distribuído sob licença MIT. Veja LICENSE para mais informações.
+
+🎲 Dica Pro: Quanto menos dicas usar, maior sua pontuação! Conseguirá chegar aos 11 pontos?
+
 ## ⚙️ Instalação
 ```bash
 # Clonar repositório
@@ -39,4 +63,17 @@ npm install
 # Iniciar servidor de desenvolvimento
 npm run dev
 
-![alt text](image.png)
+
+### Personalize com:
+1. Substitua `seu-usuario/seu-repositorio` pelos seus dados reais
+2. Adicione suas próprias screenshots
+3. Inclua um link para demo online (se tiver)
+4. Adicione um GIF demonstrando o gameplay
+5. Atualize a seção de tecnologias com suas escolhas específicas
+
+Quer um visual mais elaborado? Adicione badges do Shields.io:
+
+```markdown
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
